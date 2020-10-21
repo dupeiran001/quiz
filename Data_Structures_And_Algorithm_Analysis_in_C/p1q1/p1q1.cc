@@ -37,6 +37,4 @@ int main(int argc , char** argv)
     begin++;
   std::cout << *begin;
   return EXIT_SUCCESS;
-  
-
 }
